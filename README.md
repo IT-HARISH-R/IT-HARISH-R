@@ -2,8 +2,12 @@
 <h3 align="center">🚀 MERN Stack Developer | 🎨 UI Designer | 🌍 Based in Tamil Nadu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&multiline=true&width=600&lines=Building+cool+stuff+with+MERN+Stack...;React+%2B+Node+%2B+Mongo+%2B+Tailwind...;Always+Learning+%7C+Always+Coding...;Let's+Connect+%F0%9F%91%8D" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=650&lines=🚀+Building+cool+apps+with+MERN+Stack...;⚛️+React+%2B+Node+%2B+Mongo+%2B+Tailwind+CSS...;📚+Always+Learning+%7C+Always+Shipping...;🤝+Let's+Connect+and+Build+Together!" 
+    alt="Typing SVG animation"
+  />
 </p>
+
 
 ---
 
