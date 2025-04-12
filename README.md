@@ -57,45 +57,49 @@
 
 <br/>
 
-<div align="center">
+<p align="center"> 
+  ### 💼 My Projects
 
-✨ <b>🌐 My Portfolio</b><br/>
-Showcasing my journey, skills & projects — built with React, Tailwind, and smooth animations.<br/>
-👉 <a href="https://mernharish.netlify.app">Visit</a><br/><br/>
+- 🌐 **My Portfolio**  
+  Showcasing my journey & projects in MERN stack.  
+  👉 [Visit](https://mernharish.netlify.app)
 
-🎮 <b>🧩 Memory Game</b><br/>
-A fun card-flipping game built using HTML, CSS & vanilla JavaScript.<br/>
-👉 <a href="https://task3-memory-game.netlify.app">Play Now</a><br/><br/>
+- 🧩 **Memory Game**  
+  A fun card-flipping game using HTML, CSS & JavaScript.  
+  👉 [Play Now](https://task3-memory-game.netlify.app)
 
-🛒 <b>🛒 Fake Store Modal Cart</b><br/>
-React + Fake Store API with a sleek modal-based cart system.<br/>
-👉 <a href="https://api-project-1.netlify.app">Live Demo</a><br/><br/>
+- 🛒 **Fake Store Modal Cart**  
+  React app with cart modal and Fake Store API integration.  
+  👉 [Live Demo](https://api-project-1.netlify.app)
 
-🎬 <b>📽️ Movie Search App</b><br/>
-Search movies with the OMDB API using React Router & Tailwind.<br/>
-👉 <a href="https://guvi-task7.netlify.app">Check It Out</a><br/><br/>
+- 📽️ **Movie Search App**  
+  Search for movies using the OMDB API with React Router.  
+  👉 [Check It Out](https://guvi-task7.netlify.app)
 
-🗣️ <b>🧠 SpeakFlow – AI Communication Trainer</b><br/>
-Voice-based AI English trainer using Speech-to-Text, OpenAI, and TTS.<br/>
-👉 <a href="https://speak-flowt.netlify.app/">Try Now</a><br/><br/>
 
-🎨 <b>🎨 CSS Task Page</b><br/>
-A visual gallery of custom components built with CSS only.<br/>
-👉 <a href="https://harishtask1css.netlify.app/">View Page</a><br/><br/>
 
-⚛️ <b>⚛️ React Task – Counter + Toggle + Form</b><br/>
-Mini React components to master state, forms, and UI logic.<br/>
-👉 <a href="https://task-6-react.netlify.app/">Task 6 Demo</a><br/><br/>
 
-📅 <b>🎟️ Event Management Platform</b><br/>
-MERN stack event listing platform with Razorpay, routes & dashboards.<br/>
-👉 <a href="https://guvi-event-management-project.netlify.app/">Live Now</a><br/><br/>
+- 🧠 **SpeakFlow – AI Communication Trainer**  
+  A voice-based AI app to improve your English skills.  
+  👉 [Try Now](https://speak-flowt.netlify.app/)
 
-💬 <b>💬 Real-Time Chat App</b><br/>
-Socket.IO-based chat app for real-time messaging, hosted on Render.<br/>
-👉 <a href="https://chat-application-ue9m.onrender.com/">Chat Here</a><br/><br/>
+- 🎨 **CSS Task Page**  
+  My early CSS work with stylish components.  
+  👉 [View Page](https://harishtask1css.netlify.app/)
 
-</div>
+- ⚛️ **React Counter + Toggle + Form Task**  
+  Practicing React state management and UI basics.  
+  👉 [Task 6 Demo](https://task-6-react.netlify.app/)
+
+- 🎟️ **Event Management Platform**  
+  Full MERN app with event listings, schedule & ticketing.  
+  👉 [Live Now](https://guvi-event-management-project.netlify.app/)
+
+- 💬 **Real-Time Chat App**  
+  Node.js + Socket.IO based chat app hosted on Render.  
+  👉 [Chat Here](https://chat-application-ue9m.onrender.com/)
+
+</p>
 
 ---
 
