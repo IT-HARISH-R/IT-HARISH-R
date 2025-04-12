@@ -28,7 +28,6 @@
   <a href="https://www.linkedin.com/in/harishdeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/IT-HARISH-R" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://mernharish.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itz.harish_2729" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
