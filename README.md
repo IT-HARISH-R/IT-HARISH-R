@@ -16,9 +16,8 @@
 - 🎓 Diploma in **Electrical and Electronics Communication Engineering** (2024)
 - 💻 Self-taught full stack dev, currently learning **Node.js & Express.js**
 - 🔧 Actively building MERN apps with **React**, **TailwindCSS**, **MongoDB**
-- 💡 Working on a unique **Online Counseling Platform** with Razorpay & Video Calls
 - 🧠 Passionate about AI tools & improving communication in English
-- 🎯 Goal: Land a role as a **Zogo HR developer** (or even beyond 😉)
+- 🎯 Goal: Land a role as a **Zogo developer** (or even beyond 😉)
 
 ---
 
