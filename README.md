@@ -54,6 +54,10 @@
 <p align="center"> 
   ### 💼 My Projects
 
+- 🌐 **My Portfolio**  
+  Showcasing my journey & projects in MERN stack.  
+  👉 [Visit](https://mernharish.netlify.app)
+
 - 🧩 **Memory Game**  
   A fun card-flipping game using HTML, CSS & JavaScript.  
   👉 [Play Now](https://task3-memory-game.netlify.app)
@@ -66,13 +70,8 @@
   Search for movies using the OMDB API with React Router.  
   👉 [Check It Out](https://guvi-task7.netlify.app)
 
-- 📊 **Income Expense Tracker**  
-  Personal finance app with CRUD (Coming Soon!).  
-  👉 [Preview](#)
 
-- 🌐 **My Portfolio**  
-  Showcasing my journey & projects in MERN stack.  
-  👉 [Visit](https://mernharish.netlify.app)
+
 
 - 🧠 **SpeakFlow – AI Communication Trainer**  
   A voice-based AI app to improve your English skills.  
