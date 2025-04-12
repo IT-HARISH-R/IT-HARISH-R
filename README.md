@@ -12,9 +12,8 @@
 - 🎓 Diploma in **Electrical and Electronics Communication Engineering** (2024)
 - 💻 Self-taught full stack dev, currently learning **Node.js & Express.js**
 - 🔧 Actively building MERN apps with **React**, **TailwindCSS**, **MongoDB**
-- 💡 Working on a unique **Online Counseling Platform** with Razorpay & Video Calls
 - 🧠 Passionate about AI tools & improving communication in English
-- 🎯 Goal: Land a role as a **Zogo HR developer** (or even beyond 😉)
+- 🎯 Goal: Land a role as a **Zogo  developer** (or even beyond 😉)
 
 ---
 
@@ -25,7 +24,6 @@
   <a href="https://www.linkedin.com/in/harishdeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/IT-HARISH-R" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://mernharish.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itz.harish_2729" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,6 +64,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT-HARISH-R&label=Profile+Views&color=blue&style=flat" alt="harish-views" />
-</p>
