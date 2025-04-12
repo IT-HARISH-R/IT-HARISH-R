@@ -1,53 +1,71 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">A passionate MERN Stack Developer from Tamil Nadu</h3>
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [mernharish@gmail.com](mailto:mernharish@gmail.com)  
-- 💼 Portfolio: [mernharish.netlify.app](https://mernharish.netlify.app/)  
-- 🔗 LinkedIn: [linkedin.com/in/harishdeveloper](https://www.linkedin.com/in/harishdeveloper)  
-- 📸 Instagram: [itz.harish_2729](https://www.instagram.com/itz.harish_2729)  
-- 💻 GitHub: [github.com/IT-HARISH-R](https://github.com/IT-HARISH-R)
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning **Node.js, Express.js**
-- 🛠️ I build apps using **React, Tailwind CSS, MongoDB**
-- 🎯 Focused on creating full-stack web apps with great UI/UX
-- 🔥 Always curious to explore new tech and tools
-
----
-
-### 🛠️ Technologies & Tools
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI Designer | 🌍 Based in Tamil Nadu</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT-HARISH-R&show_icons=true&theme=radical" alt="Harish's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT-HARISH-R&theme=radical" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&multiline=true&width=600&lines=Building+cool+stuff+with+MERN+Stack...;React+%2B+Node+%2B+Mongo+%2B+Tailwind...;Always+Learning+%7C+Always+Coding...;Let's+Connect+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 🙋‍♂️ About Me
 
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+- 🎓 Diploma in **Electrical and Electronics Communication Engineering** (2024)
+- 💻 Self-taught full stack dev, currently learning **Node.js & Express.js**
+- 🔧 Actively building MERN apps with **React**, **TailwindCSS**, **MongoDB**
+- 💡 Working on a unique **Online Counseling Platform** with Razorpay & Video Calls
+- 🧠 Passionate about AI tools & improving communication in English
+- 🎯 Goal: Land a role as a **Zogo HR developer** (or even beyond 😉)
 
 ---
 
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mernharish@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harishdeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/IT-HARISH-R" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://mernharish.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itz.harish_2729" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🔥 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT-HARISH-R&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT-HARISH-R&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-HARISH-R&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 💼 My Projects
+
+- 🧩 **Memory Game** → [Play now](https://task3-memory-game.netlify.app)
+- 🛒 **Fake Store Modal Cart** → [Live Demo](https://api-project-1.netlify.app)
+- 📽️ **Movie Search App** → [Check it out](https://guvi-task7.netlify.app)
+- 🧾 **Income Expense Tracker** → [CRUD Version Soon](#)
+- 🌐 **My Portfolio** → [mernharish.netlify.app](https://mernharish.netlify.app)
+
+---
+
+### 🧠 Fun Fact
+
+> I talk to AI to improve my English, and sometimes it talks back in **Tanglish**! 🤖😄
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT-HARISH-R&label=Profile+Views&color=blue&style=flat" alt="harish-views" />
+</p>
