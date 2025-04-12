@@ -55,8 +55,6 @@
 
 <p align="start">Here's a sneak peek into some of the projects I've passionately built with MERN Stack, pure CSS, and modern tools. From UI challenges to real-time apps — it's all here 🚀</p>
 
-<br/>
-
 <p align="center"> 
 
 - 🌐 **My Portfolio**  -  👉 [Visit](https://mernharish.netlify.app)
