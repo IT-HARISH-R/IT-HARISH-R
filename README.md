@@ -77,6 +77,45 @@
   👉 [Check It Out](https://guvi-task7.netlify.app)
 
 
+- 🧠 **SpeakFlow – AI Communication Trainer**  
+  A voice-based AI app to improve your English skills.  
+  👉 [Try Now](https://speak-flowt.netlify.app/)
+
+- 🎨 **CSS Task Page**  
+  My early CSS work with stylish components.  
+  👉 [View Page](https://harishtask1css.netlify.app/)
+
+- ⚛️ **React Counter + Toggle + Form Task**  
+  Practicing React state management and UI basics.  
+  👉 [Task 6 Demo](https://task-6-react.netlify.app/)
+
+- 🎟️ **Event Management Platform**  
+  Full MERN app with event listings, schedule & ticketing.  
+  👉 [Live Now](https://guvi-event-management-project.netlify.app/)
+
+- 💬 **Real-Time Chat App**  
+  Node.js + Socket.IO based chat app hosted on Render.  
+  👉 [Chat Here](https://chat-application-ue9m.onrender.com/)
+<p align="center"> 
+  ### 💼 My Projects
+
+- 🌐 **My Portfolio**  
+  Showcasing my journey & projects in MERN stack.  
+  👉 [Visit](https://mernharish.netlify.app)
+
+- 🧩 **Memory Game**  
+  A fun card-flipping game using HTML, CSS & JavaScript.  
+  👉 [Play Now](https://task3-memory-game.netlify.app)
+
+- 🛒 **Fake Store Modal Cart**  
+  React app with cart modal and Fake Store API integration.  
+  👉 [Live Demo](https://api-project-1.netlify.app)
+
+- 📽️ **Movie Search App**  
+  Search for movies using the OMDB API with React Router.  
+  👉 [Check It Out](https://guvi-task7.netlify.app)
+
+
 
 
 - 🧠 **SpeakFlow – AI Communication Trainer**  
@@ -99,6 +138,7 @@
   Node.js + Socket.IO based chat app hosted on Render.  
   👉 [Chat Here](https://chat-application-ue9m.onrender.com/)
 
+</p>
 </p>
 
 ---
