@@ -72,15 +72,3 @@
 - 💬 **Real-Time Chat App**  -  👉 [Chat Here](https://chat-application-ue9m.onrender.com/)
 
 </p>
-
----
-
-### 🧠 Fun Fact
-
-> I talk to AI to improve my English, and sometimes it talks back in **Tanglish**! 🤖😄
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT-HARISH-R&label=Profile+Views&color=blue&style=flat" alt="harish-views" />
-</p>
