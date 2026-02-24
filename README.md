@@ -213,13 +213,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN_Stack_Development-GUVI%20(IIT--M%20Research%20Park)-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Full_Stack_with_AI_Tools-IIT--M%20Pravartak-0ea5e9?style=for-the-badge&labelColor=0f172a" />
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td>✅ JavaScript & Advanced JavaScript</td>
+      <td>✅ JavaScript</td>
       <td>✅ ReactJS</td>
     </tr>
     <tr>
@@ -227,8 +226,8 @@
       <td>✅ HTML, CSS, Tailwind CSS</td>
     </tr>
     <tr>
-      <td>✅ Database Fundamentals</td>
-      <td>✅ Python Basics</td>
+      <td>✅ Database </td>
+      <td>✅ Express js</td>
     </tr>
   </table>
 </div>
@@ -248,16 +247,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT-HARISH-R&theme=react&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="GitHub Streak" />
 </p>
 
-### 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IT-HARISH-R&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
 
-### 📈 **GitHub Stats Cards**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT-HARISH-R&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-HARISH-R&layout=compact&theme=react&hide_border=true&bg_color=0f172a"/>
-</p>
 
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -279,23 +269,8 @@
   </a>
 </p>
 
-## 📱 **Instagram Bio Style**
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack%20Developer%20%F0%9F%92%BB-0ea5e9?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Building%20Real%20World%20Projects%20%F0%9F%9A%80-0ea5e9?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/React%20%7C%20Node%20%7C%20MongoDB-0ea5e9?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Exploring%20AI%20%F0%9F%A4%96-0ea5e9?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Salem%2C%20TN%20%F0%9F%93%8D-0ea5e9?style=for-the-badge" />
-</p>
 
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 **GitHub Contribution Snake Animation**
-
-<p align="center">
-  <img src="https://github.com/IT-HARISH-R/IT-HARISH-R/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
